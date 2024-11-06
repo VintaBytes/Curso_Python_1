@@ -28,6 +28,8 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Funciones y métodos comunes: `len()`, `*`,`split()`,`replace()`,`join()` e `in`
 * f-strings.
 
+----
+
 ### Módulo 2: Control de flujo
 
 ##### Clase N° 5: Condicionales
