@@ -1,3 +1,7 @@
+# Temario del curso
+Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Curso de Python 1.
+
+
 ### Módulo 1: Python básico
 
 ##### Clase N° 1: Introducción.
@@ -18,7 +22,6 @@
 * Funciones de conversion de tipos de datos: `int()`, `float()`, `str()`, etc.
 * Determinacion de tipos: función `type()`
 * Comentarios en el código.
-
 
 ##### Clase N° 4: Cadenas de caracteres.
 * Manipulación de cadenas de caracteres.
