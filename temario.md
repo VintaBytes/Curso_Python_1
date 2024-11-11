@@ -1,6 +1,9 @@
-# Temario del curso
+# <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span> Temario del curso 
 
-<span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>[Volver al Indice](https://github.com/VintaBytes/Curso_Python_1/blob/main/README.md)
+[Volver al Indice](https://github.com/VintaBytes/Curso_Python_1/blob/main/README.md)
+
+
+
 Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Curso de Python 1.
 
 ----
