@@ -6,3 +6,7 @@ Curso libre y gratuito de Python Nivel 1.
 - [Temario del curso](https://github.com/VintaBytes/Curso_Python_1/blob/main/temario.md)
 
 - Clase 01 (12/11/2024) - Video - Material extra
+  
+- Clase 02 (19/11/2024) - Video - Material extra
+  
+- Clase 03 (26/11/2024) - Video - Material extra
