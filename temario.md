@@ -1,6 +1,7 @@
 # Temario del curso
 Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Curso de Python 1.
 
+----
 
 ### Módulo 1: Python básico
 
