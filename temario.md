@@ -10,7 +10,7 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 
 ### Módulo 1: Python básico
 
-##### Clase N° 1: Introducción.
+##### Clase N° 1: Presentación e Instalación.
 * Presentación del docente.
 * Introducción al curso: duración, objetivos, metodología.
 * Instalación y configuración del entorno de desarrollo (Visual Studio Code + Python).
