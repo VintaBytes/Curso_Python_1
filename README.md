@@ -1,5 +1,5 @@
-#  <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>  Curso_Python_1
-Curso libre y gratuito de Python Nivel 1.
+#  <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>  Curso Python Nivel 1
+Curso libre y gratuito de Python dirigido a aquellas personas que están comenzando a utilizar este lenguaje.
 
 ## Indice general:
 
