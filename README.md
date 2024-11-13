@@ -10,3 +10,5 @@ Curso libre y gratuito de Python Nivel 1.
 🚀 Clase 02 (19/11/2024) - Video - Material extra
   
 🚀 Clase 03 (26/11/2024) - Video - Material extra
+
+...
