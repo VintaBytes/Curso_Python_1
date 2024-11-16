@@ -40,7 +40,7 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 
 ##### Clase N° 5: Condicionales
 * Operadores relacionales.
-* Toma de decisiones:`if`, `else`,`elif`
+* Toma de decisiones:`if`,`elif`, `else`
 
 ##### Clase N° 6: Bucles while I
 * Bucle `while`.
