@@ -38,7 +38,7 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Operadores relacionales.
 * Toma de decisiones:`if`,`elif`, `else`
 
-##### Clase N° 5: Bucles while I
+##### Clase N° 5: Bucles while
 * Bucle `while`.
 * Contadores y acumuladores.
 
