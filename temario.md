@@ -29,24 +29,20 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Determinacion de tipos: función `type()`
 * Comentarios en el código.
 
-##### Clase N° 4: Cadenas de caracteres.
-* Manipulación de cadenas de caracteres.
-* Funciones y métodos comunes: `len()`, `*`,`split()`,`replace()`,`join()` e `in`
-* f-strings.
 
 ----
 
 ### Módulo 2: Control de flujo
 
-##### Clase N° 5: Condicionales
+##### Clase N° 4: Condicionales
 * Operadores relacionales.
 * Toma de decisiones:`if`,`elif`, `else`
 
-##### Clase N° 6: Bucles while I
+##### Clase N° 5: Bucles while I
 * Bucle `while`.
 * Contadores y acumuladores.
 
-##### Clase N° 7: Bucle for
+##### Clase N° 6: Bucle for
 * Bucle `for`.
 * Recorriendo cadenas con `for`.
 * Uso de `range()`
@@ -55,7 +51,7 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 
 ### Módulo 3: Estructuras de datos en Python
 
-##### Clase N° 8: Listas y Tuplas I
+##### Clase N° 7: Listas y Tuplas I
 * Creación y manipulación de listas y Tuplas.
 * Diferencias entre listas y tuplas.
 * Métodos básicos de listas: `len()`,`append()`,`insert()`,
@@ -63,10 +59,15 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Slices de listas, tuplas y cadenas.
 
 
-##### Clase N° 9: T Listas y Tuplas II
+##### Clase N° 8: T Listas y Tuplas II
 * Listas y tuplas con `for` y `while`.
 * Uso de `list()`
 * Métodos avanzados de listas: `sort()`,`sorted()`, `index()`, `in`, `count()`, `in`
+
+##### Clase N° 9: Cadenas de caracteres.
+* Manipulación de cadenas de caracteres.
+* Funciones y métodos comunes: `len()`, `*`,`split()`,`replace()`,`join()` e `in`
+* f-strings.
 
 
 ##### Clase N° 10: Diccionarios
