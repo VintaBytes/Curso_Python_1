@@ -11,4 +11,6 @@ Curso libre y gratuito de Python dirigido a aquellas personas que están comenza
   
 🚀 Clase 03 (26/11/2024) - [Video](https://youtu.be/2Ifre11jaeM) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase03/Clase%2003-Ingreso%20de%20datos.pdf)
 
+🚀 Clase 04 (03/12/2024) - [Video](https://youtu.be/W7bo4qVbvA4) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase04/Clase%2004-Condicionales%20I.pdf)
+
 ...
