@@ -14,4 +14,7 @@ Curso libre y gratuito de Python dirigido a aquellas personas que están comenza
 🚀 Clase 04 (03/12/2024) - [Video](https://youtu.be/W7bo4qVbvA4) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase04/Clase%2004-Condicionales%20I.pdf)
 
 🚀 Clase 05 (10/12/2024) - [Video](https://youtu.be/mn9MlBtRu6k) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase05/Clase%2005-Bucle%20While.pdf)
+
+🚀 Clase 06 (17/12/2024)
+
 ...
