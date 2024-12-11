@@ -39,7 +39,7 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Toma de decisiones:`if`,`elif`, `else`
 * Operadores Lógicos.
 
-##### [Clase N° 5: Bucles while]()
+##### [Clase N° 5: Bucles while](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase05/readme.md)
 * Bucle `while`.
 * Contadores y acumuladores.
 
