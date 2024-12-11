@@ -17,13 +17,13 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Instalación de plugins.
 * "Hola Mundo" en Python.
 
-##### Clase N° 2: Variables y operadores aritméticos.
+##### [Clase N° 2: Variables y operadores aritméticos.](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase02/readme.md)
 * La función `print()`
 * Variables. Creación y asignación de valores.
 * Tipos de datos simples: enteros, punto flotante, lógicos y cadenas de caracteres.
 * Operadores aritméticos.
 
-##### Clase N° 3: Ingreso y conversión de datos.
+##### Clase [N° 3: Ingreso y conversión de datos.](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase03/readme.md)
 * Entrada de datos: función `input()`
 * Funciones de conversion de tipos de datos: `int()`, `float()`, `str()`, etc.
 * Determinacion de tipos: función `type()`
@@ -34,12 +34,12 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 
 ### Módulo 2: Control de flujo
 
-##### Clase N° 4: Condicionales
+##### [Clase N° 4: Condicionales](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase04/readme.md)
 * Operadores relacionales.
 * Toma de decisiones:`if`,`elif`, `else`
 * Operadores Lógicos.
 
-##### Clase N° 5: Bucles while
+##### [Clase N° 5: Bucles while]()
 * Bucle `while`.
 * Contadores y acumuladores.
 
