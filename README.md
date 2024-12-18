@@ -15,6 +15,6 @@ Curso libre y gratuito de Python dirigido a aquellas personas que están comenza
 
 🚀 Clase 05 (10/12/2024) - [Video](https://youtu.be/mn9MlBtRu6k) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase05/Clase%2005-Bucle%20While.pdf)
 
-🚀 Clase 06 (17/12/2024)
+🚀 Clase 06 (17/12/2024) - [Video](https://youtu.be/Qe3f2Qe0FhA) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase06/Clase%2006-Bucle%20for.pdf)
 
 ...
