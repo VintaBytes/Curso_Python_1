@@ -43,10 +43,11 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Bucle `while`.
 * Contadores y acumuladores.
 
-##### Clase N° 6: Bucle for
+##### [Clase N° 6: Bucle for](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase06/readme.md)
 * Bucle `for`.
 * Recorriendo cadenas con `for`.
 * Uso de `range()`
+
 
 ----
 
