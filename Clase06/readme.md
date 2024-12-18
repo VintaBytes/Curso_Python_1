@@ -10,7 +10,7 @@
 
 ✅ Desafíos.
 
-📹 [Video de la clase]()
+📹 [Video de la clase](https://youtu.be/Qe3f2Qe0FhA)
 
-📝 [Diapositivas](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase05/Clase%2005-Bucle%20While.pdf)
+📝 [Diapositivas](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase06/Clase%2006-Bucle%20for.pdf)
 
