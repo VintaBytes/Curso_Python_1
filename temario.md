@@ -64,7 +64,7 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 ##### Clase N° 8: T Listas y Tuplas II
 * Listas y tuplas con `for` y `while`.
 * Uso de `list()`
-* Métodos avanzados de listas: `sort()`,`sorted()`, `index()`, `in`, `count()`, `in`
+* Métodos avanzados de listas: `sort()`,`sorted()`, `index()`, `count()`, etc.
 
 ##### Clase N° 9: Cadenas de caracteres.
 * Manipulación de cadenas de caracteres.
