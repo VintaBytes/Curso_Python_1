@@ -53,16 +53,17 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 
 ### Módulo 3: Estructuras de datos en Python
 
-##### Clase N° 7: Listas y Tuplas I
+##### [Clase N° 7: Listas y Tuplas I](https://github.com/VintaBytes/Curso_Python_1/tree/main/Clase07readme.md)
 * Creación y manipulación de listas y Tuplas.
 * Diferencias entre listas y tuplas.
 * Métodos básicos de listas: `len()`,`append()`,`insert()`,
  `extend()`, `remove()`, `pop()`, `clear()`, `in`
-* Slices de listas, tuplas y cadenas.
+
 
 
 ##### Clase N° 8: T Listas y Tuplas II
 * Listas y tuplas con `for` y `while`.
+* Slices de listas, tuplas y cadenas.
 * Uso de `list()`
 * Métodos avanzados de listas: `sort()`,`sorted()`, `index()`, `count()`, etc.
 
