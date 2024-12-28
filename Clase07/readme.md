@@ -7,7 +7,9 @@
 
 ✅ Métodos básicos de listas: len(),append(),insert(), extend(), remove(), pop(), clear(), in.
 
-✅ Desafíos.
+✅ Desafío 1. [Video con la resolución](https://youtu.be/sXhP3gw8uLo?si=REaVsND-S8AlcKi_)
+
+✅ Desafío 2. [Video con la resolución](https://youtu.be/9HM-mLdAKWw?si=VIb_ftFbFAX9Q8BG)
 
 📹 [Video de la clase](https://youtu.be/YuG8aAKnjfo)
 
