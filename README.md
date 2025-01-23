@@ -5,7 +5,7 @@ Curso libre y gratuito de Python dirigido a aquellas personas que están comenza
 
 📝 [Temario del curso](https://github.com/VintaBytes/Curso_Python_1/blob/main/temario.md)
 
-🚀 Clase 01 (12/11/2024) - [Video](https://www.youtube.com/watch?v=HvR10e8_wnk) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase01/clase01.md)
+🚀 Clase 01 (12/11/2024) - [Video](https://youtu.be/HvR10e8_wnk) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase01/clase01.md)
   
 🚀 Clase 02 (19/11/2024) - [Video](https://youtu.be/ox668EteVN0) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase02/Clase%2002-Variables%20y%20operadores.pdf)
   
@@ -19,11 +19,11 @@ Curso libre y gratuito de Python dirigido a aquellas personas que están comenza
 
 🚀 Clase 07 (24/12/2024) - [Video](https://youtu.be/YuG8aAKnjfo) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase07/Clase%2007-Listas%20y%20Tuplas%20I.pdf)
 
-🚀 Clase 08 (31/12/2024) - [Video](https://youtu.be/4R0zO22sapk) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase08/Clase%2008-Listas%20y%20Tuplas%20II.pdf)
+🚀 Clase 08 (22/01/2025) - [Video](https://youtu.be/4R0zO22sapk) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase08/Clase%2008-Listas%20y%20Tuplas%20II.pdf)
 
-🚀 Clase 09 (07/01/2025) - 
+🚀 Clase 09 (28/01/2025) - 
 
-🚀 Clase 10 (14/01/2025) - 
+🚀 Clase 10 (04/02/2025) - 
 
 ...
 [Video de la clase](
