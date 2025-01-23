@@ -19,10 +19,11 @@ Curso libre y gratuito de Python dirigido a aquellas personas que están comenza
 
 🚀 Clase 07 (24/12/2024) - [Video](https://youtu.be/YuG8aAKnjfo) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase07/Clase%2007-Listas%20y%20Tuplas%20I.pdf)
 
-🚀 Clase 08 (31/12/2024) - 
+🚀 Clase 08 (31/12/2024) - [Video](https://youtu.be/4R0zO22sapk) - [Material extra](https://github.com/VintaBytes/Curso_Python_1/blob/main/Clase08/Clase%2008-Listas%20y%20Tuplas%20II.pdf)
 
 🚀 Clase 09 (07/01/2025) - 
 
 🚀 Clase 10 (14/01/2025) - 
 
 ...
+[Video de la clase](
