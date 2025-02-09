@@ -70,19 +70,19 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 ### Módulo 4: Funciones en Python
 
 
-##### Clase N° 11: Introducción a funciones
+##### Clase N° 09: Introducción a funciones
 * ¿Porqué usar funciones?
 * Definición de funciones:`def`
 * Invocando funciones.
 * Argumentos y parámetros.
 * Parámetros por defecto.
 
-##### Clase N° 12: Funciones avanzadas
+##### Clase N° 10: Funciones avanzadas
 * Uso de `return`.
 * Funciones que llaman a otras funciones.
 * Argumentos por defecto.
 
-##### Clase N° 13: Funciones anónimas (lambda)
+##### Clase N° 11: Funciones anónimas (lambda)
 * Introducción a las funciones lambda.
 * Usos y limitaciones.
 * Funciones lambda con `filter()`, `map()` y `reduce()`
