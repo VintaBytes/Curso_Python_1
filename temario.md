@@ -59,29 +59,16 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Métodos básicos de listas: `len()`,`append()`,`insert()`,
  `extend()`, `remove()`, `pop()`, `clear()`, `in`
 
-
-
 ##### Clase N° 8: T Listas y Tuplas II
 * Listas y tuplas con `for` y `while`.
 * Slices de listas, tuplas y cadenas.
 * Uso de `list()`
 * Métodos avanzados de listas: `sort()`,`sorted()`, `index()`, `count()`, etc.
 
-##### Clase N° 9: Cadenas de caracteres.
-* Manipulación de cadenas de caracteres.
-* Funciones y métodos comunes: `len()`, `*`,`split()`,`replace()`,`join()` e `in`
-* f-strings.
-
-
-##### Clase N° 10: Diccionarios
-* Creación y uso de diccionarios.
-* Acceso a valores, modificación, y eliminación de pares clave-valor.
-* Métodos y funciones útiles: `len()`,`keys()`,`values()`,`items()`,`get()`,`update()` y`pop()`.
-* Uso de `in` en diccionarios.
-
 ----
 
 ### Módulo 4: Funciones en Python
+
 
 ##### Clase N° 11: Introducción a funciones
 * ¿Porqué usar funciones?
@@ -159,3 +146,16 @@ Este es el temario (tentativo, incompleto y seguramente sujeto a cambios) del Cu
 * Uso del módulo `datetime` para manejar fechas y horas.
 
 ----
+### A reasignar:
+
+
+##### Clase N° 9: Cadenas de caracteres.
+* Manipulación de cadenas de caracteres.
+* Funciones y métodos comunes: `len()`, `*`,`split()`,`replace()`,`join()` e `in`
+* f-strings.
+
+##### Clase N° 10: Diccionarios
+* Creación y uso de diccionarios.
+* Acceso a valores, modificación, y eliminación de pares clave-valor.
+* Métodos y funciones útiles: `len()`,`keys()`,`values()`,`items()`,`get()`,`update()` y`pop()`.
+* Uso de `in` en diccionarios.
